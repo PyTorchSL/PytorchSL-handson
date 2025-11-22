@@ -16,7 +16,7 @@ Below is the lesson schedule for the Spark Track.
 
 | Lesson | Date       | Colab |
 |--------|------------|--------|
-| **lesson0** | 2025-02-16 | [![Open In Colab](https://colab.research.google.com/drive/19Q1jv73ruUmZHKo2PTNgb5XsCdqiAomg?usp=sharing) |
+| **lesson0** | 22-11-2025 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19Q1jv73ruUmZHKo2PTNgb5XsCdqiAomg?usp=sharing)|
 | **lesson1** | TBD        | — |
 | **lesson2** | TBD        | — |
 
