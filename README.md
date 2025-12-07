@@ -33,27 +33,25 @@ Stay tuned!
   <tr>
     <td align="center">
       <a href="#">
-        <img src="team/images/hari.png" width="100px" height="100px" alt="Harikishna" style="border-radius:50%;"/>
+        <img src="team/images/hari.png" width="100px" height="100px" alt="Harikishna"/>
       </a>
       <br />
       <sub><b>Harikishna Navaratnam</b></sub>
     </td>
     <td align="center">
       <a href="#">
-        <img src="team/images/menan.png" width="100px" height="100px" alt="Menan" style="border-radius:50%;"/>
+        <img src="team/images/menan.png" width="100px" height="100px" alt="Menan"/>
       </a>
       <br />
       <sub><b>Menan Velayuthan</b></sub>
     </td>
     <td align="center">
       <a href="#">
-        <img src="team/images/sheron.png" width="100px" height="100px" alt="Sheron" style="border-radius:50%;"/>
+        <img src="team/images/sheron.png" width="100px" height="100px" alt="Sheron"/>
       </a>
       <br />
       <sub><b>Sheron Jayasinghe</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="#">
         <img src="https://ui-avatars.com/api/?name=Thilokya+Angeesa&background=random&size=200&rounded=true" width="100px" height="100px" alt="Thilokya"/>
@@ -63,11 +61,10 @@ Stay tuned!
     </td>
     <td align="center">
       <a href="#">
-        <img src="team/images/varsha.png" width="100px" height="100px" alt="Varsha" style="border-radius:50%;"/>
+        <img src="team/images/varsha.png" width="100px" height="100px" alt="Varsha"/>
       </a>
       <br />
       <sub><b>Varsha Jeyarajalingam</b></sub>
     </td>
-    <td></td>
   </tr>
 </table>
