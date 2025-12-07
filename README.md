@@ -54,7 +54,7 @@ Stay tuned!
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://ui-avatars.com/api/?name=Thilokya+Angeesa&background=random&size=200&rounded=true" width="100px" height="100px" alt="Thilokya"/>
+        <img src="team/images/thilokya.png" width="100px" height="100px" alt="Thilokya"/>
       </a>
       <br />
       <sub><b>Thilokya Angeesa</b></sub>
