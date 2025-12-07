@@ -25,3 +25,39 @@ Below is the lesson schedule for the Spark Track.
 
 More lessons will be added as the Spark Track continues.  
 Stay tuned!
+
+
+## 👥 Meet the Team
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="team/images/hari.jpg" width="100px" height="100px" alt="Harikishna" style="border-radius:50%; object-fit: cover;"/>
+      <br />
+      <sub><b>Harikishna Navaratnam</b></sub>
+    </td>
+    <td align="center">
+      <img src="team/images/menan.jpg" width="100px" height="100px" alt="Menan" style="border-radius:50%; object-fit: cover;"/>
+      <br />
+      <sub><b>Menan Velayuthan</b></sub>
+    </td>
+    <td align="center">
+      <img src="team/images/sheron.jpg" width="100px" height="100px" alt="Sheron" style="border-radius:50%; object-fit: cover;"/>
+      <br />
+      <sub><b>Sheron Jayasinghe</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://ui-avatars.com/api/?name=Thilokya+Angeesa&background=random&size=200" width="100px" height="100px" alt="Thilokya" style="border-radius:50%; object-fit: cover;"/>
+      <br />
+      <sub><b>Thilokya Angeesa</b></sub>
+    </td>
+    <td align="center">
+      <img src="team/images/varsha.png" width="100px" height="100px" alt="Varsha" style="border-radius:50%; object-fit: cover;"/>
+      <br />
+      <sub><b>Varsha Jeyarajalingam</b></sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
