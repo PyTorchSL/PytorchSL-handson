@@ -40,7 +40,7 @@ Stay tuned!
     </td>
     <td align="center">
       <a href="#">
-        <img src="team/images/menan.jpg" width="100px" height="100px" alt="Menan" style="border-radius:50%;"/>
+        <img src="team/images/menan.png" width="100px" height="100px" alt="Menan" style="border-radius:50%;"/>
       </a>
       <br />
       <sub><b>Menan Velayuthan</b></sub>
