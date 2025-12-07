@@ -29,7 +29,7 @@ Stay tuned!
 
 ## 👥 Meet the Team
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
       <a href="#">
