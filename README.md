@@ -32,29 +32,39 @@ Stay tuned!
 <table align="center">
   <tr>
     <td align="center">
-      <img src="team/images/hari.jpg" width="100px" height="100px" alt="Harikishna" style="border-radius:50%; object-fit: cover;"/>
+      <a href="#">
+        <img src="team/images/hari.jpg" width="100px" height="100px" alt="Harikishna" style="border-radius:50%;"/>
+      </a>
       <br />
       <sub><b>Harikishna Navaratnam</b></sub>
     </td>
     <td align="center">
-      <img src="team/images/menan.jpg" width="100px" height="100px" alt="Menan" style="border-radius:50%; object-fit: cover;"/>
+      <a href="#">
+        <img src="team/images/menan.jpg" width="100px" height="100px" alt="Menan" style="border-radius:50%;"/>
+      </a>
       <br />
       <sub><b>Menan Velayuthan</b></sub>
     </td>
     <td align="center">
-      <img src="team/images/sheron.jpg" width="100px" height="100px" alt="Sheron" style="border-radius:50%; object-fit: cover;"/>
+      <a href="#">
+        <img src="team/images/sheron.jpg" width="100px" height="100px" alt="Sheron" style="border-radius:50%;"/>
+      </a>
       <br />
       <sub><b>Sheron Jayasinghe</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Thilokya+Angeesa&background=random&size=200" width="100px" height="100px" alt="Thilokya" style="border-radius:50%; object-fit: cover;"/>
+      <a href="#">
+        <img src="https://ui-avatars.com/api/?name=Thilokya+Angeesa&background=random&size=200&rounded=true" width="100px" height="100px" alt="Thilokya"/>
+      </a>
       <br />
       <sub><b>Thilokya Angeesa</b></sub>
     </td>
     <td align="center">
-      <img src="team/images/varsha.jpg" width="100px" height="100px" alt="Varsha" style="border-radius:50%; object-fit: cover;"/>
+      <a href="#">
+        <img src="team/images/varsha.jpg" width="100px" height="100px" alt="Varsha" style="border-radius:50%;"/>
+      </a>
       <br />
       <sub><b>Varsha Jeyarajalingam</b></sub>
     </td>
