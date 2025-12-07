@@ -33,7 +33,7 @@ Stay tuned!
   <tr>
     <td align="center">
       <a href="#">
-        <img src="team/images/hari.jpg" width="100px" height="100px" alt="Harikishna" style="border-radius:50%;"/>
+        <img src="team/images/hari.png" width="100px" height="100px" alt="Harikishna" style="border-radius:50%;"/>
       </a>
       <br />
       <sub><b>Harikishna Navaratnam</b></sub>
@@ -47,7 +47,7 @@ Stay tuned!
     </td>
     <td align="center">
       <a href="#">
-        <img src="team/images/sheron.jpg" width="100px" height="100px" alt="Sheron" style="border-radius:50%;"/>
+        <img src="team/images/sheron.png" width="100px" height="100px" alt="Sheron" style="border-radius:50%;"/>
       </a>
       <br />
       <sub><b>Sheron Jayasinghe</b></sub>
@@ -63,7 +63,7 @@ Stay tuned!
     </td>
     <td align="center">
       <a href="#">
-        <img src="team/images/varsha.jpg" width="100px" height="100px" alt="Varsha" style="border-radius:50%;"/>
+        <img src="team/images/varsha.png" width="100px" height="100px" alt="Varsha" style="border-radius:50%;"/>
       </a>
       <br />
       <sub><b>Varsha Jeyarajalingam</b></sub>
