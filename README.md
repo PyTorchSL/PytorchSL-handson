@@ -54,7 +54,7 @@ Stay tuned!
       <sub><b>Thilokya Angeesa</b></sub>
     </td>
     <td align="center">
-      <img src="team/images/varsha.png" width="100px" height="100px" alt="Varsha" style="border-radius:50%; object-fit: cover;"/>
+      <img src="team/images/varsha.jpg" width="100px" height="100px" alt="Varsha" style="border-radius:50%; object-fit: cover;"/>
       <br />
       <sub><b>Varsha Jeyarajalingam</b></sub>
     </td>
