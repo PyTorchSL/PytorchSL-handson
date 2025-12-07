@@ -47,6 +47,13 @@ Stay tuned!
     </td>
     <td align="center">
       <a href="#">
+        <img src="team/images/miruba.png" width="100px" height="100px" alt="Menan"/>
+      </a>
+      <br />
+      <sub><b>Miruba Gunaseelan</b></sub>
+    </td>
+    <td align="center">
+      <a href="#">
         <img src="team/images/sheron.png" width="100px" height="100px" alt="Sheron"/>
       </a>
       <br />
