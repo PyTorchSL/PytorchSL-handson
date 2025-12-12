@@ -14,11 +14,11 @@ Welcome to the **PyTorchSL Spark Track ✨** — a beginner-friendly hands-on jo
 
 Below is the lesson schedule for the Spark Track.
 
-| Lesson | Date       | Colab |
-|--------|------------|--------|
-| **lesson0** | 22-11-2025 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19Q1jv73ruUmZHKo2PTNgb5XsCdqiAomg?usp=sharing)|
-| **lesson1** | 6-12-2025        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-IWO2MWVBK8EW-pHncoRn_GfHdIvkvPO?usp=sharing)|
-| **lesson2** | TBD        | — |
+| Lesson | Date | Colab | Recording |
+| :--- | :--- | :--- | :--- |
+| **lesson0** | 22-11-2025 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19Q1jv73ruUmZHKo2PTNgb5XsCdqiAomg?usp=sharing)| [![Watch Recording](https://img.shields.io/badge/Watch-Recording-red?logo=youtube)](https://drive.google.com/file/d/1LskyYYcWty0RsBGTte4Eg0SX8OLbzXDX/view?usp=sharing) |
+| **lesson1** | 6-12-2025 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-IWO2MWVBK8EW-pHncoRn_GfHdIvkvPO?usp=sharing)| [![Watch Recording](https://img.shields.io/badge/Watch-Recording-red?logo=youtube)](https://drive.google.com/file/d/18y77_VdklAAW0IiIFyGppSQPjoH3IhLq/view?usp=sharing) |
+| **lesson2** | TBD | — | — |
 
 
 ---
